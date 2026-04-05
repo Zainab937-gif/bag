@@ -1,0 +1,18 @@
+title: Zainab's Blog
+description: My personal blog website
+theme: minima
+
+# Enable posts
+markdown: kramdown
+permalink: /:categories/:title/
+
+# Navigation (optional but helpful)
+nav:
+  - name: Home
+    link: /
+  - name: About
+    link: /about/
+  - name: Blog
+    link: /blog/
+  - name: Contact
+    link: /contact/
